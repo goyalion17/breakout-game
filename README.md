@@ -25,8 +25,8 @@ A classic Breakout arcade game built with Python and the `turtle` module, as par
 Requires Python 3 with Tkinter (included in most Python installations).
 
 ```bash
-git clone <repo-url>
-cd Day_87
+git clone https://github.com/goyalion17/breakout-game.git
+cd breakout-game
 python3 main.py
 ```
 
